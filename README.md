@@ -3,13 +3,13 @@
 A simple command-line Python application that allows users to download YouTube videos in MP4 format using the `yt-dlp` library.  
 Users can enter the video URL and choose their preferred download location.
 
-## 🚀 Features
+## Features
 - Download videos directly from YouTube.
 - Saves videos in high-quality MP4 format.
 - Lets you specify your own download path.
 
 
-## 🧰 Technologies Used
+## Technologies Used
 - **Python 3**
 - **yt-dlp** library
   
