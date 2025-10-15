@@ -10,6 +10,6 @@ Users can enter the video URL and choose their preferred download location.
 
 
 ## 🧰 Technologies Used
-- **Python 3.x**
+- **Python 3**
 - **yt-dlp** library
   
